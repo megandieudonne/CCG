@@ -8,7 +8,7 @@
 <p>Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century, 1985.</p>
 
 <h2>About</h2>
-</p><a href="https://cyborgcuntglitch.megandieudonne.com/"><i>CYBORG CUNT GLITCH</i></a>, Research and Master Thesis, University of Fine Arts Hamburg HFBK, Winter Semester 2020/21. Supervised by Christoph Knoth, Nora Sternfeld.</p>
+</p><a href="https://cyborgcuntglitch.megandieudonne.com/">CYBORG CUNT GLITCH</a>, Research and Master Thesis, University of Fine Arts Hamburg HFBK, Klasse Digitale Grafik, Winter Semester 2020/21. Supervised by Christoph Knoth and Nora Sternfeld.</p>
 
 Keywords:  
 Cyberspace, Internet, Body, Post- Transhumanism, Cyberfeminism, Manifesto, Cyborg, Cunt, Glitch.</p>
@@ -20,4 +20,4 @@ Cyberspace, Internet, Body, Post- Transhumanism, Cyberfeminism, Manifesto, Cybor
 
 <h2>Credit</h2>
 Facilitated by Megan Dieudonné | Contact: <a href="mailto:megan.dieudonne@gmail.com">Email</a>
-<h4>Megan Dieudonné is a designer based in Aotearoa New Zealand. She studied at the College of Creative Arts in Pōneke Wellington, visited the Systemdesign class at Academy of Fine Arts HGB Leipzig, then joined the <a href="http://www.digitale-grafik.com/">Digital Graphics</a> class at the <a href="https://www.hfbk-hamburg.de/en/">University of Fine Arts Hamburg HFBK</a>, where she recently completed a Master of Fine Arts.</h4>
+<h4>Megan Dieudonné is a designer from Aotearoa New Zealand. She recently completed a Master of Fine Arts from the <a href="https://www.hfbk-hamburg.de/en/">University of Fine Arts Hamburg HFBK</a></h4>
