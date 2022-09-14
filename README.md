@@ -10,7 +10,7 @@
 <h2>About</h2>
 </p><i>Cyborg Cunt Glitch</i>, Research and Master Thesis, University of Fine Arts Hamburg HFBK, Klasse Digitale Grafik, Winter Semester 2020/21. Supervised by Christoph Knoth and Nora Sternfeld.</p>
 
-Read online <a href="https://cyborgcuntglitch.megandieudonne.com/">here</a>
+<a href="https://cyborgcuntglitch.megandieudonne.com/"><u>Read online</u></a>
 
 Keywords:  
 Cyberspace, Internet, Body, Post- Transhumanism, Cyberfeminism, Manifesto, Cyborg, Cunt, Glitch.</p>
