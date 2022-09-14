@@ -8,7 +8,7 @@
 <p>Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century, 1985.</p>
 
 <h2>About</h2>
-</p><i>Cyborg Cunt Glitch</i>, Research and Master Thesis, University of Fine Arts Hamburg HFBK, Klasse Digitale Grafik, Winter Semester 2020/21. Supervised by Christoph Knoth and Nora Sternfeld.</p>
+</p><i>Cyborg Cunt Glitch</i>, research and MA Thesis, University of Fine Arts Hamburg HFBK, Klasse Digitale Grafik, Winter Semester 2020/21. Supervised by Christoph Knoth and Nora Sternfeld.</p>
 
 <a href="https://cyborgcuntglitch.megandieudonne.com/">Read online</a>
 
@@ -18,7 +18,7 @@ Cyberspace, Internet, Body, Post- Transhumanism, Cyberfeminism, Manifesto, Cybor
 <h2>Care</h2>
 <p>Folders are organised alphabetically by first and last name where file types are mostly: .md, .pdf, .jpg, .png. Some folders contain a markdown file named “Link List”. This is a directory of hyperlinks that navigate to another location.</p>
 
-<p>This repository is always in-progress and fully accessible.</p>
+<p>This repository is in-progress and fully accessible.</p>
 
 <h2>Credit</h2>
 Facilitated by Megan Dieudonné | Contact: <a href="mailto:megan.dieudonne@gmail.com">Email</a>
