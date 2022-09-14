@@ -13,7 +13,7 @@
 <a href="https://cyborgcuntglitch.megandieudonne.com/">Read online</a>
 
 Keywords:  
-Cyberspace, Internet, Body, Post- Transhumanism, Cyberfeminism, Manifesto, Cyborg, Cunt, Glitch</p>
+Cyberspace, Internet, Body, Gender, Post- Transhumanism, Cyberfeminism, Manifesto, Cyborg, Cunt, Glitch</p>
 
 <h2>Care</h2>
 <p>Folders are organised alphabetically by first and last name where file types are mostly: .md, .pdf, .jpg, .png. Some folders contain a markdown file named “Link List”. This is a directory of hyperlinks that navigate to another location.</p>
