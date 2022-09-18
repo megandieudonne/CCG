@@ -22,4 +22,4 @@ Cyberspace, Internet, Body, Gender, Post- Transhumanism, Cyberfeminism, Manifest
 
 <h2>Credit</h2>
 Facilitated by Megan Dieudonné | Contact: <a href="mailto:megan.dieudonne@gmail.com">Email</a>
-<h5>Megan Dieudonné (b. 1991, Manawatū-Whanganui) is a designer based in Leipzig. Their expanded practice includes websites, visual identities and desktop essays typically in close collaboration with individuals and institutions who are situated in art, academia and digital culture.</h5>
+<h5>Megan Dieudonné (b. 1991, Manawatū-Whanganui) is a designer based in Leipzig. Their expanded practice includes websites, visual identities and desktop essays typically in close collaboration with individuals and institutions who are situated in art, academia and digital culture.</h5
